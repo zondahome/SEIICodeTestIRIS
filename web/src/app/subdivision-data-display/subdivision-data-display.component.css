@@ -1,0 +1,17 @@
+.mat-cell,
+.mat-header-cell {
+  padding: 0 24px;
+}
+
+table.mat-table {
+  display: table;
+  width: 100%;
+}
+
+h1 {
+  padding-left: 1rem;
+}
+
+.mat-form-field {
+  padding-left: 1rem;
+}
